@@ -1,2 +1,3 @@
 # Souza Store - keys sem acesso. Gerado pelo Gerador de Keys; nao edite a mao.
+extend:basic:23f7ae14:lifetime
 extend:extreme:88044445:lifetime
