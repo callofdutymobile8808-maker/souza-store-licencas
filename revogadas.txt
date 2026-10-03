@@ -1,3 +1,4 @@
 # Souza Store - keys sem acesso. Gerado pelo Gerador de Keys; nao edite a mao.
+extreme:f1825bb1
 basic:5b54ffd9
 extreme:05cf0c3b
